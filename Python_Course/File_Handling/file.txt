@@ -1,0 +1,4 @@
+Why use Abstract Classes?
+Jab aap ek rule set karna chahte ho ki “jo bhi subclass banega, uske paas ye method hona hi chahiye”.
+Example: Saare vehicles ko start karna hi hoga, chahe car ho, bike ho ya truck.
+Agar koi subclass us method ko implement nahi karega to error milega.
