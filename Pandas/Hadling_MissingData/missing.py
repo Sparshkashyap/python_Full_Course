@@ -11,7 +11,7 @@ dic={
 
 df = pd.DataFrame(dic)
 
-print(df)
+# print(df)
 
 # print(df.isnull())
-print(df.isnull().sum())
+# print(df.isnull().sum())

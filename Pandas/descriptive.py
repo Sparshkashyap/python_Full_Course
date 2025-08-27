@@ -12,8 +12,7 @@ data = pd.DataFrame(dic)
 
 # print(data[["Age","Performance Score"]].count()
 # )
-print(data[["Age","Performance Score"]].mean()
-)
+print(data[["Age","Performance Score"]].mean())
 
 print(data)
 
